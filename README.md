@@ -4,6 +4,7 @@
 
 - https://zenn.dev/zenn/articles/install-zenn-cli
 - https://zenn.dev/zenn/articles/zenn-cli-guide
+- https://zenn.dev/zenn/articles/connect-to-github
 
 ## Procedure
 
@@ -24,3 +25,7 @@ Create article
 ```shell-session
 $ npx zenn new:article --slug zenn-cli-example
 ```
+
+Connect GitHub
+
+> https://zenn.dev/zenn/articles/connect-to-github
